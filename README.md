@@ -71,10 +71,5 @@ Motto:
 <p align="center" style="font-size:16px; color:#555;">
   Join me on a journey where creative minds converge to transform ideas into reality.
 </p>
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Developer Animation"/>
-</p>
 
 </div>
